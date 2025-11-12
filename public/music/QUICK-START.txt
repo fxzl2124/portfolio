@@ -1,0 +1,56 @@
+🎵 QUICK GUIDE: Cara Download "Sweet Boy" - Malcolm Todd
+═══════════════════════════════════════════════════════
+
+📥 CARA TERCEPAT (5 Menit):
+
+1. Buka YouTube:
+   https://www.youtube.com
+   
+2. Cari: "Malcolm Todd - Sweet Boy"
+
+3. Copy URL video
+
+4. Buka YouTube to MP3 Converter:
+   👉 https://ytmp3.nu/
+   ATAU
+   👉 https://y2mate.is/
+   
+5. Paste URL → Pilih MP3 (320kbps) → Download
+
+6. Rename file menjadi: sweet-boy.mp3
+
+7. Copy file ke folder:
+   C:\portfolio2025\portfolio\public\music\
+
+8. Buka website (localhost:5173)
+
+9. Klik tombol gold di pojok kanan bawah
+
+10. Enjoy! 🎉
+
+═══════════════════════════════════════════════════════
+
+💎 CARA TERBAIK (Support Artis):
+
+1. Buka Bandcamp:
+   https://malcolmtodd.bandcamp.com/
+
+2. Cari "Sweet Boy"
+
+3. Beli track ($1-3)
+
+4. Download MP3
+
+5. Letakkan di: public/music/sweet-boy.mp3
+
+═══════════════════════════════════════════════════════
+
+✅ CHECKLIST:
+[ ] Download MP3
+[ ] Rename: sweet-boy.mp3
+[ ] Copy ke: public/music/
+[ ] Test di website
+[ ] Klik tombol play
+[ ] Volume: hover untuk adjust
+
+🎵 DONE!
